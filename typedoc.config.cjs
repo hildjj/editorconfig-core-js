@@ -1,3 +1,5 @@
+// @ts-check
+
 'use strict';
 
 /** @type {import('typedoc').TypeDocOptions} */
