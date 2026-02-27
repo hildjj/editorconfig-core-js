@@ -62,6 +62,7 @@
   "publishConfig": {
     "tag": "1.x"
   },
+  "packageManager": "pnpm@10.30.3",
   "engines": {
     "node": ">=14"
   }
